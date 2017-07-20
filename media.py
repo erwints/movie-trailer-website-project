@@ -1,4 +1,5 @@
-import webbrowser #module for displaying web-based documents
+import webbrowser  # module for displaying web-based documents
+
 
 class Movie():
     """Creates the Movie class to create instances of movies.
