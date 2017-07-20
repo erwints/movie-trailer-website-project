@@ -1,6 +1,9 @@
 import fresh_tomatoes
 import media
 
+#instance format: [instance] = media.Movie([movie title], [movie box art link],
+#                                          [youtube trailer link])
+
 gattaca = media.Movie("Gattaca",
                       "https://goo.gl/hy3CPn",
                       "https://www.youtube.com/watch?v=BpzVFdDeWyo")
